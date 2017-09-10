@@ -1,0 +1,2 @@
+# UnityCSVGameObjectGenerationEditor
+CSVを読み込み、CSV内の記号に対して設定したPrefabを生成するエディタ
